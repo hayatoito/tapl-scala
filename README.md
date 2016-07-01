@@ -1,5 +1,7 @@
 # TAPL in Scala
 
+[![Join the chat at https://gitter.im/hayatoito/tapl-scala](https://badges.gitter.im/hayatoito/tapl-scala.svg)](https://gitter.im/hayatoito/tapl-scala?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project is an attempt to port very nice companion code (written by Pierce in OCaml) 
 for the book "Types and Programming Languages" by Benjamin C. Pierce into Scala.
 
